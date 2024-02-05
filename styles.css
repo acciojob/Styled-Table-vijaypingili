@@ -1,1 +1,13 @@
 /* your code */
+
+
+.head {
+	background-color:blue;
+	color:white;
+	border-radius:10px;
+}
+
+.grey-row {
+	background-color:lightgrey;
+
+}
